@@ -14,7 +14,7 @@ public class CampaignsPage {
 	public CampaignsPage(WebDriver driver) {
 		this.driver = driver;
 	}
-
+        //getcampaigns
 	public List<WebElement> getAllCampaignRows() {
 		return driver.findElements(By.xpath("//table[@class='lvt small']/tbody/tr"));
 	}
