@@ -17,7 +17,7 @@ public class CreateProTest extends Baseclasstest {
     public void createProductTest() throws IOException, Exception {
     	
     	//HI
-    	//hello -eng12
+    
 
         // Navigate to Product Page
         HomePage homepage = new HomePage(driver);
