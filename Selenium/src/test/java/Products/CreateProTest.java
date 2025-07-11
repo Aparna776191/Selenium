@@ -15,6 +15,8 @@ public class CreateProTest extends Baseclasstest {
 
     @Test(groups = "smoketest")
     public void createProductTest() throws IOException, Exception {
+    	
+    	//HI
 
         // Navigate to Product Page
         HomePage homepage = new HomePage(driver);
