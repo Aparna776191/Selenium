@@ -16,7 +16,7 @@ public class CreateProTest extends Baseclasstest {
     @Test(groups = "smoketest")
     public void createProductTest() throws IOException, Exception {
     	
-    	//HI
+    	//HI -- branch1
     
 
         // Navigate to Product Page
